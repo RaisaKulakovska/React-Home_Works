@@ -24,7 +24,8 @@ const App=()=>{
             </div>
         </div>
  <div className="row content">
-    <h4>Education:</h4>
+     <div className="col">
+     <h4>Education:</h4>
     <p>
     - May 2019 - Up to date - student of it-academy “SHAG” Rivne, Ukraine<br></br>
     - Web-design classes student, October 2018 – February 2019, Rivne<br></br>
@@ -49,7 +50,9 @@ const App=()=>{
     <p>native Ukrainian, fluent Russian, English Upper-Intermediate.</p>   
        
     <h4>Hobby:</h4>
-    <p>reading</p>   
+    <p>reading</p>
+     </div>
+      
 
         </div>   
     </main>
